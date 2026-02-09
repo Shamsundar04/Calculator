@@ -12,10 +12,6 @@ JavaScript
 - **Clear/Delete**: Supports clearing the entire display or deleting the last character.
 - **Dark Mode**: (Optional) Sleek dark-themed UI.
 
-## Screenshots
-*(Add a screenshot of your calculator here to show off the design)*
-![Calculator Preview](URL_TO_YOUR_IMAGE)
-
 ## How to Run Locally
 1. **Clone the repository**:
    ```bash
