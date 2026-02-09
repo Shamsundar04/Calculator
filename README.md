@@ -2,9 +2,9 @@
 
 A clean and responsive calculator built using vanilla **HTML**, **CSS**, and **JavaScript**. This project was created to demonstrate fundamental front-end web development concepts.
 
-![HTML5](https://img.shields.io)
-![CSS3](https://img.shields.io)
-![JavaScript](https://img.shields.io)
+HTML5
+CSS3
+JavaScript
 
 ## Features
 - **Basic Arithmetic**: Addition, subtraction, multiplication, and division.
